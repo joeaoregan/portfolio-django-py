@@ -9,6 +9,7 @@
 
 <!doctype html>
 <html lang="en">
+{% load static %} <!-- needed to load static files -->
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -79,6 +80,7 @@
         <a href="mailto:joeaoregan@yahoo.ie" class="btn btn-primary my-2">Email Me</a>
         <!--a href="#" class="btn btn-secondary my-2">Secondary action</a-->
       </p>
+	  <img src="{% static 'joe.jpg' %}" height=300></img>
     </div>
   </section>
 
