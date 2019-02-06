@@ -41,6 +41,8 @@
 	  <img src="{{ job.image.url }}" height=300></img>
       <p>
         <a href="{% url 'home' %}" class="btn btn-primary my-2">Back</a>	<!-- name assigned in url.py -->
+		
+        <a href="{{ job.link }}" target="_blank" class="btn btn-primary my-2">GitHub</a><!-- go to GitHub page -->
       </p>
     </div>
   </section>
