@@ -25,9 +25,13 @@ Added extra fields to database for project name and GitHub repo link
 
 ###### Django Portfolio Site
 
-![Django Portfolio Site](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/screenshot_admin.jpg "Django Portfolio Admin Page")
+![Django Portfolio Admin Page](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/screenshot_admin.jpg "Django Portfolio Admin Page")
 
 ###### Django Portfolio Admin Page
+
+![Django Portfolio Updated Details Page](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/details_page.jpg "Django Portfolio Details Page")
+
+###### Django Portfolio Updated Details Page. Added embedded YouTube video, and GitHub repo link.
 
 #### References
 
@@ -73,6 +77,8 @@ pip3 install psycopg2
 ```console
 pip3 install psycopg2-binary
 ```
+
+###### Note to Self: Run the next 2 commands after updating database fields
 
 ```console
 python3 manage.py makemigrations
