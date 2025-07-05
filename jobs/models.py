@@ -9,6 +9,8 @@ class Job(models.Model):
 	summary = models.CharField(max_length=200)
 	# path (github link etc.)
 	link = models.CharField(max_length=200, default="", null=True, blank=True)	# need default value to add to existing entries in database
+
+	youtube = models.CharField(max_length=200, default="", null=True, blank=True)
 	
 	def __str__(self):
 		# return self.summary

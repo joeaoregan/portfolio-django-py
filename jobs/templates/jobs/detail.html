@@ -36,7 +36,10 @@
         <div class="container">
           <h1 class="jumbotron-heading">{{ job.name }}</h1>
           <p class="lead text-muted">{{ job.summary }}</p>
-        <img src="{{ job.image.url }}" height=300></img>
+          <iframe width="520" height="480" src="https://www.youtube.com/embed/{{ job.youtube }}?autoplay=1&mute=1&playlist={{ job.youtube }}&loop=1"></iframe>
+          <br/>
+
+          <img src="{{ job.image.url }}" height=300></img>
           <p>
             <a href="{% url 'home' %}" class="btn btn-primary my-2">Back</a>	<!-- name assigned in url.py -->
         
