@@ -6,7 +6,7 @@ Tutorial from LinkedIn Learning [here](https://www.linkedin.com/learning/buildin
 
 - Django
 - PostgreSQL
-- Bootstrap
+- Bootstrap (jQuery, Popper)
 
 #### References
 
@@ -18,7 +18,10 @@ Tutorial from LinkedIn Learning [here](https://www.linkedin.com/learning/buildin
 [django](https://www.djangoproject.com/download/)  
 [postgresql](https://www.postgresql.org/download/)  
 [pgAdmin 4](https://www.pgadmin.org/download/)
-[Bootstrap: Album example](https://getbootstrap.com/docs/5.3/examples/album/)
+[Bootstrap 4.1 Album example](https://getbootstrap.com/docs/4.1/examples/album/)
+[Bootstrap 4.1 Compiled CSS and JS](https://getbootstrap.com/docs/4.1/getting-started/download/)
+[jQuery](https://jquery.com/download/)
+[Popper](https://unpkg.com/popper.js@1.16.1/dist/umd/popper.min.js)
 
 #### Create Project:
 
@@ -66,6 +69,20 @@ python3 manage.py createsuperuser
 
 Using pgAdmin 4
 
-```
+```console
 \password <username>
+```
+
+##### Boostrap
+
+Album Example
+
+[Bootstrap 4.1 Album Example](https://getbootstrap.com/docs/4.1/examples/album/)
+
+[Bootstrap 4.1 Quickstart](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+#### Static files
+
+```console
+python3 manage.py collectstatic
 ```
