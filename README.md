@@ -14,6 +14,10 @@ Tutorial from LinkedIn Learning [here](https://www.linkedin.com/learning/buildin
 
 ###### Django Portfolio Site
 
+![Django Portfolio Site](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/screenshot_admin.jpg "Django Portfolio Admin Page")
+
+###### Django Portfolio Admin Page
+
 #### References
 
 [Building a Personal Portfolio with Django](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/)
