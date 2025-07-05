@@ -8,6 +8,14 @@ Tutorial from LinkedIn Learning [here](https://www.linkedin.com/learning/buildin
 - PostgreSQL
 - Bootstrap (jQuery, Popper)
 
+---
+
+[![YouTube Django PostgreSQL Portfolio](https://img.youtube.com/vi/iVdUWT2WhVI/default.jpg)](https://youtu.be/iVdUWT2WhVI)
+
+###### YouTube Link
+
+---
+
 #### Screenshots
 
 ![Django Portfolio Site](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/screenshot_site.jpg "Django Portfolio Site")
