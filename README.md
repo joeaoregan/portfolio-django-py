@@ -8,11 +8,14 @@ Tutorial from LinkedIn Learning [here](https://www.linkedin.com/learning/buildin
 - PostgreSQL
 - Bootstrap (jQuery, Popper)
 
+Added extra fields to database for project name and GitHub repo link
+
 ---
 
-[![YouTube Django PostgreSQL Portfolio](https://img.youtube.com/vi/iVdUWT2WhVI/default.jpg)](https://youtu.be/iVdUWT2WhVI)
+[![YouTube Django PostgreSQL Portfolio](https://img.youtube.com/vi/9lGoAAfoc3k/default.jpg)](https://youtu.be/9lGoAAfoc3k)
+[![YouTube Django PostgreSQL Portfolio Update](https://img.youtube.com/vi/MN3ClQzpw_k/default.jpg)](https://youtu.be/MN3ClQzpw_k)
 
-###### YouTube Link
+###### YouTube Links
 
 ---
 

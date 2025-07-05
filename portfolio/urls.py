@@ -21,8 +21,8 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-	path('home', jobs.views.home, name='home'),
-	path('jobs/<int:job_id>', jobs.views.detail, name='detail'),	# if someone goes to job/ we save the int to job_id
+    path('', jobs.views.home, name='home'),
+    path('jobs/<int:job_id>', jobs.views.detail, name='detail')	# if someone goes to job/ we save the int to job_id
 ] 
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
