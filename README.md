@@ -21,15 +21,15 @@ Added extra fields to database for project name and GitHub repo link
 
 #### Screenshots
 
-![Django Portfolio Site](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/screenshot_site.jpg "Django Portfolio Site")
+![Django Portfolio Site](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/screenshots/site.jpg "Django Portfolio Site")
 
 ###### Django Portfolio Site
 
-![Django Portfolio Admin Page](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/screenshot_admin.jpg "Django Portfolio Admin Page")
+![Django Portfolio Admin Page](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/screenshots/admin_page.jpg "Django Portfolio Admin Page")
 
 ###### Django Portfolio Admin Page
 
-![Django Portfolio Updated Details Page](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/images/details_page.jpg "Django Portfolio Details Page")
+![Django Portfolio Updated Details Page](https://raw.githubusercontent.com/joeaoregan/portfolio-django-py/master/screenshots/details_page.jpg "Django Portfolio Details Page")
 
 ###### Django Portfolio Updated Details Page. Added embedded YouTube video, and GitHub repo link.
 
