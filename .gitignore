@@ -1,2 +1,4 @@
+/coverage/
 db.sqlite3
-jobs\__pycache__
+/jobs/__pycache__/
+/portfolio/__pycache__/
